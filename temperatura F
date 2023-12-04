@@ -1,0 +1,11 @@
+public class temperaturaF {
+	    public static void main(String[] args) {
+	   
+	        double temperaturaFahrenheit = 81.1;
+
+	        double temperaturaCelsius = (5.0 / 9.0) * (temperaturaFahrenheit - 32);
+
+	        System.out.println("A temperatura em Celsius é: " + temperaturaCelsius);
+	    }
+	}
+ 
